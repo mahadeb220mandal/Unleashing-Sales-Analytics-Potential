@@ -1,3 +1,3 @@
 # Unleashing-Sales-Analytics-Potential
 
-use Excel and its function
+create dynamic dashboard by Excel and its function
